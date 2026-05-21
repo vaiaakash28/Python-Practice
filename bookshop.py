@@ -4,7 +4,7 @@ import pymysql
 db = pymysql.connect(
     host="localhost",
     user="myuer",
-    password="Aakash@5454",
+    password="mypassword",
     database="bookshop_db"
 )
 
